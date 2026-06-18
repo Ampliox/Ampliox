@@ -1,6 +1,6 @@
 # Andres Samper
 
-  ****Offensive security consultant.****
+  ****Offensive Security Consultant.****
 
  **Research focus:** AI security and the development of AI-driven offensive tooling.
 
