@@ -1,11 +1,11 @@
-## Andres Samper
+### Andres Samper
 
   Offensive security consultant.
 
-  Research focus: AI security and the development of AI-driven offensive tooling.
+ ** Research focus:** AI security and the development of AI-driven offensive tooling.
 
-  CVE-2026-55525
+  **CVE-2026-55525**
   
-  Certs: OSCP, HTB CPTS, TCM PIPA, CompTIA Security+, Rapid7 InsightVM.
+  **Certs:** OSCP, HTB CPTS, TCM PIPA, CompTIA Security+, Rapid7 InsightVM.
 
   [Website](https://andressamper.com) • [LinkedIn](https://www.linkedin.com/in/andres-samper/)
