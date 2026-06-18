@@ -6,6 +6,6 @@
 
   **CVE-2026-55525** - SSRF via redirect-following in praisonaiagents web_crawl
   
-  **Certs:** OSCP, HTB CPTS, TCM PIPA, CompTIA Security+, Rapid7 InsightVM.
+  **Certs:** OSCP, HTB CPTS, TCM PIPA, Security+, Rapid7 InsightVM.
 
   [Website](https://andressamper.com) • [LinkedIn](https://www.linkedin.com/in/andres-samper/)
